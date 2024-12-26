@@ -1,4 +1,4 @@
 # project
-this is my project
+This is a project about elbert einstin biography 
 <br>
-author - minesh sen
+made by Minesh sen

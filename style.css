@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+}
+body {
+    background-color: #bfacdb;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.caption{
+    height: 50px;
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 2px 2px 2px black;
+    text-decoration: underline;
+    line-height: 2px;
+}
+.about{
+    height: 500px;
+    margin-top: 30px;
+    display: flex;
+
+}
+.image {
+    background-image: url("image.png");
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+    box-shadow: 1px 1px 1px black;
+    
+}
+.about-him{
+    height: 100%;
+    width: 50%;
+    padding-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+.about-him h3{
+    text-decoration: underline;
+}
+.detail {
+    height: 1200px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.detaila {
+    padding: 10px 10px 10px 10px;
+    height: 90%;
+    width: 70%;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px black;
+}
+.detail1{
+    font-size: 1.2rem;
+}
+.detail1 h2{
+    text-decoration: underline;
+}
+.detail2{
+    font-size: 1.2rem;
+
+}
+.detail h2{
+    text-decoration: underline;
+}
+.footer{
+    font-size: 1.3rem;
+    text-align: center;
+}
+.footer a{
+    text-decoration: none;
+}
